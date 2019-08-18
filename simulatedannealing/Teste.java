@@ -18,11 +18,11 @@ public class Teste {
 		/*
 		APLICANDO O ALGORITMO COM O ESTADO INICIAL ACIMA
 		
-		Estado Inicial/ 
-		Numero de vezes que irei diminuir a temperatura/
-		Numero de vezes que vou tentar encontrar um resultado melhor do que eu encontrei/
-		Quantos resultados melhores(ou nao) eu devo saltar/
-		Velocidade que a temperatura vai diminuir 
+		Estado Inicial/ no
+		Numero de vezes que irei diminuir a temperatura/ 2000
+		Numero de vezes que vou tentar encontrar um resultado melhor do que eu encontrei/ 2000
+		Quantos resultados melhores(ou nao) eu devo saltar/ 2
+		Velocidade que a temperatura vai diminuir/ 0.9
 		
 		*/
 		

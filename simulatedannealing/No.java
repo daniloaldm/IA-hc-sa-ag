@@ -118,14 +118,14 @@ public class No {
 		int[][] sucessorAleatorio = sucessores.get(gerador.nextInt(sucessores.size()));
 		
 		//MOSTRO A MATRIZ DO SUCESSOR GERADO ------------------
-		for (int i = 0; i < this.estado.length; i++) {
-			for (int j = 0; j < this.estado.length; j++) {	
-				System.out.print(sucessorAleatorio[i][j]);
-			}		
-			System.out.println();	
-		}	
-		System.out.println();
-		//-------------------------------------------------
+		// for (int i = 0; i < this.estado.length; i++) {
+		// 	for (int j = 0; j < this.estado.length; j++) {	
+		// 		System.out.print(sucessorAleatorio[i][j]);
+		// 	}		
+		// 	System.out.println();	
+		// }	
+		// System.out.println();
+		// -------------------------------------------------
 		
 		//ATRIBUTO SUCESSOR RECEBE A REFERENCIA DE UM SUCESSOR ALEATORIO
 		return sucessorAleatorio;

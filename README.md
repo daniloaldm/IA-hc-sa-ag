@@ -16,6 +16,7 @@ Antônio Carlos S. F. Júnior
 *O problema das oito rainhas é um problema matemático de dispor oito rainhas em um tabuleiro de xadrez de dimensão 8x8, de forma que nenhuma delas seja atacada por outra. Para tanto, é necessário que duas rainhas quaisquer não estejam numa mesma linha, coluna, ou diagonal (Figura 1).*
 
 ![](https://lh5.googleusercontent.com/Ke1QxvLNN854eWoVnS-NKDsmPsNgjaHUFAj_kaq2eOHFMYMvyOCohfOiSCiEDeJtwxH_LDCDPclolIBNWwQgANqtrLnAv-HOtIQ1zFoTPn3PZU4uAtCmX9tDWC-1CKoFsxiXCb8o)
+
 ***Figura 1. Tipos de ataque***
 
 Dito isso, temos que:
@@ -30,6 +31,7 @@ Dito isso, temos que:
 Desta forma, o raciocínio será partir do estado inicial, acrescentar as rainhas, seguindo as regras do problema, até que as 8 estejam no tabuleiro (Figura 2).
 
 ![](https://lh6.googleusercontent.com/IN1qhP4qb6L-_TbsBJmbBy_6azSaBsgYYAgS0x_Y7msOxi9Kal2N1Ft8ScP-YULk0gyjr6E--zSnHuiucJBz5Jv6pI_3vOCePfrv-v5TjfQnG41Nf4opTlmsWHZRAhSQalMgQfiG)
+
 **Figura 2.**
 
 # 2. Algoritmos
@@ -86,6 +88,7 @@ Nos experimentos, executamos os algoritmos implementados em uma máquina com as 
 -   Placa de Vídeo: Intel® HD Graphics 5500 (Broadwell GT2).
 
 ![](https://lh4.googleusercontent.com/QD6qGlU_JUq-bd8E8nBjJ70blvREhSlHpFMGne0YO1GvT7S2yKbkViljfGxlYk27oVZmlfNZGr5hbjB1AtEhXIRfRu1njpqYy2hgrBJN54m4JQtbns9oUSWF94le36vXcMmc7ofg)
+
 ***Figura 3. Estado Inicial***
 
 Executamos cada algoritmo um total de dez vezes para o problema. As tabelas a seguir, mostram a eficácia dos algoritmos. Para o problema das rainhas, foi usado como estado inicial um tabuleiro igual ao da figura 3, e o objetivo é o distribuimento das 8 rainhas, obviamente, respeitando as regras.

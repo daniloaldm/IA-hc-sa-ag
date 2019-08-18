@@ -32,7 +32,7 @@ Desta forma, o raciocínio será partir do estado inicial, acrescentar as rainha
 
 ![](https://lh6.googleusercontent.com/IN1qhP4qb6L-_TbsBJmbBy_6azSaBsgYYAgS0x_Y7msOxi9Kal2N1Ft8ScP-YULk0gyjr6E--zSnHuiucJBz5Jv6pI_3vOCePfrv-v5TjfQnG41Nf4opTlmsWHZRAhSQalMgQfiG)
 
-**Figura 2.**
+***Figura 2.***
 
 # 2. Algoritmos
 

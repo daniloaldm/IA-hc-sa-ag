@@ -103,3 +103,10 @@ O Recozimento Simulado, que por sua vez tem o mesmo funcionamento do Subida da E
 
 Os Algoritmos Genéticos também obtiveram uma taxa de acerto de 100%, provando assim sua eficiência diante os outros algoritmos, mas vale observar que isso poderia variar, dependendo da quantidade de indivíduos, das gerações, e de como é dividida a população. No caso do nosso problema atribuímos os parâmetros para que fosse atingido um resultado ótimo, esse algoritmo perdeu no quesito tempo para o Recozimento Simulado e Subida da Encosta, pois a variação da velocidade é muito maior, em compensação em algumas tentativas ele resolveu bem mais rápido que todos os tempos do Recozimento Simulado e com uma precisão bem maior que o Subida da Encosta.
 
+# Autores
+
+**Danilo Alexandrino de Miranda** - [GitHub](https://github.com/daniloaldm) - Email: [danilo.alexandrinodm@gmail.com](danilo.alexandrinodm@gmail.com)
+
+**Antônio Carlos S. F. Júnior** - [GitHub](https://github.com/cacajr) - Email: [espinhado010203@gmail.com](espinhado010203@gmail.com)
+
+
